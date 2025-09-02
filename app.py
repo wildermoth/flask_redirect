@@ -1,4 +1,3 @@
-# your_project/app.py
 from flask import Flask, redirect, url_for, request
 
 def create_app():
